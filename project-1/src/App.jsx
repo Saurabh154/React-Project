@@ -5,7 +5,9 @@ function App() {
 
   return (
     <>
-      Hello How are you
+      <div>
+        <h1>Hello India!</h1>
+      </div>
     </>
   )
 }
